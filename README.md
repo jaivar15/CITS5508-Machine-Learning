@@ -16,3 +16,10 @@ The topics covered in this Machine Learning Unit are:
 - deep neural networks, 
 - Convolution Neural Network 
 
+### Outcomes 
+1. explain the role of machine learning in knowledge extraction; 
+2. explain the difference between supervised and unsupervised learning algorithms; 
+3. demonstrate a systematic knowledge of algorithmic machine learning approaches; 
+4. produce practical implementations of machine learning solution for a real-world dataset; 
+5. analyse data datasets from the perspective of machine learning;
+6. evaluate what deep learning is, what makes it work or fail, and critique where it should be applied.
