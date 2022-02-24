@@ -23,3 +23,17 @@ The topics covered in this Machine Learning Unit are:
 4. produce practical implementations of machine learning solution for a real-world dataset; 
 5. analyse data datasets from the perspective of machine learning;
 6. evaluate what deep learning is, what makes it work or fail, and critique where it should be applied.
+
+#### Labsheet 2 (5%)
+
+
+
+#### Labsheet 3 (10%)
+
+
+
+#### Labsheet 4 (10%)
+
+
+
+#### Labsheet 5 (15%)
